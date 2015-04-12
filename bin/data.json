@@ -1,0 +1,5 @@
+{
+  "name": "SilexBot",
+  "description": "Lexa's attempt to make an efficient Bot.",
+  "constructor": "SilexBot"
+}

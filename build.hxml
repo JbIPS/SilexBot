@@ -1,0 +1,7 @@
+-js bin/SilexBot.js
+-cp src
+-main Main.hx
+--no-traces
+--no-inline
+-D js-classic
+#-cmd ./post_build_script.sh
