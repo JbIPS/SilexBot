@@ -1,0 +1,1 @@
+%userprofile%"\AppData\Local\0 A.D. alpha\binaries\system\"pyrogenesis.exe -nosound -quickstart -autostart="random/alpine_lakes" -mod=public -autostart-ai=1:silexbot -autostart-ai=2:petra -autostart-players=2

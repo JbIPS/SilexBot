@@ -1,5 +1,7 @@
 {
   "name": "SilexBot",
   "description": "Lexa's attempt to make an efficient Bot.",
-  "constructor": "SilexBot"
+  "constructor": "SilexBot",
+  "moduleName" : "SilexBot",
+  "useShared": true
 }
